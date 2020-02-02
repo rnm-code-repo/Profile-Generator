@@ -26,7 +26,7 @@ A Node applicaiton that generates a PDF profile based on GitHub content of a use
      ![Process output](./images/pdf.png) 
 
 ### Screen grab
-    ![Screen grab](./images/ProfileGen.gif)
+    ![Screen grab](ProfileGen.gif)
 
   
    

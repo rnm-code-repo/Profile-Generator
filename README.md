@@ -25,7 +25,8 @@ A Node applicaiton that generates a PDF profile based on GitHub content of a use
   5. Using this HTML Puppeteer generates a PDF
      ![Process output](./images/pdf.png) 
 
-
+### Screen grab
+    ![Screen grab](images/ProfileGen.gif)
 
   
    
